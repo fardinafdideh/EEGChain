@@ -1,3 +1,4 @@
+-
 # EEGChain: An Open-Access EEGLAB-based Toolbox for Building, Managing, Automating, and Reproducing Batch EEG Processing Pipelines
 * A convenient GUI-based EEG (pre-)processing pipeline management system;
 * Loading pre-stored pipeline configurations to ensure consistent signal processing and reproducibility;
