@@ -8,6 +8,9 @@
 * Adjusting the parameters of each pipeline building block through the easy-to-use GUI of EEGChain;
 * The same pipeline can be applied to multiple imported EEG datasets in batch, in an automated way.
 
+##  ICBME 2024
+![](/ppt/ICBME2024.PNG)
+
 ##  EEGChain Layout
 ![](/ppt/EEGChain-parts.png)
 
