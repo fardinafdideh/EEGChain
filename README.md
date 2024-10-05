@@ -64,5 +64,5 @@
 ![Slide10](/ppt/Slide10.PNG)
 
 # How to cite
-* F. Afdideh, M. Boozari, A. Ekhlasi, A. M. Nasrabadi, “EEGChain: An Open-Access EEGLAB-based Toolbox for Building, Managing, Automating, and Reproducing Batch EEG Processing Pipelines,” 31st National and 9th International Iranian Conference on Biomedical Engineering (ICBME), submitted, 2024.
+* F. Afdideh, M. Boozari, A. Ekhlasi, A. M. Nasrabadi, “EEGChain: An Open-Access EEGLAB-based Toolbox for Building, Managing, Automating, and Reproducing Batch EEG Processing Pipelines,” 31st National and 9th International Iranian Conference on Biomedical Engineering (ICBME), in press, 2024.
 * F. Afdideh, M. Boozari, A. Ekhlasi, A. M. Nasrabadi, “EEG Signal Cleaning Pipeline Management: EEGLAB-based,” *in preparation* (listed on the [EEGLAB website](https://eeglab.org/tutorials/11_Scripting/automated_pipeline.html#other-eeglab-pipelines)).
