@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/DOI-10.1109/ICBME64381.2024.10895852-blue)](https://doi.org/10.1109/ICBME64381.2024.10895852)
 [![DOI](https://zenodo.org/badge/867418734.svg)](https://doi.org/10.5281/zenodo.13888486)
 # EEGChain: An Open-Access EEGLAB-based Toolbox for Building, Managing, Automating, and Reproducing Batch EEG Processing Pipelines
 * A convenient GUI-based EEG (pre-)processing pipeline management system;
